@@ -1,5 +1,7 @@
 # SQLTranspiler
 
+TODO: Fix right parenthesis, add comments, add tests<br><br>
+
 A simplified SQL condition such as a WHERE or ON clause can be represented as a JavaScript object in
 prefix notation. This function converts a condition object to a SQL clause. For example:<br><br>
 
